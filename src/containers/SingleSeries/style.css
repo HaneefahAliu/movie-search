@@ -1,0 +1,34 @@
+.flex {
+    display: flex;
+    background-color: black;
+    width: 70vw;
+    height: 80vh;
+    opacity: 0.9;
+    margin: auto;
+}
+
+.series-description {
+    color: white;
+    /* margin: 20px; */
+}
+
+.series-image img {
+    width: 35vw;
+    height: 80vh;
+}
+
+.series-description h1 {
+    margin: 40px;
+    font-size: 50px;
+}
+
+.series-description p {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 40px;
+}
+
+.series-description span {
+    color: #fc86aa;
+    margin-top: 15px;
+}

@@ -1,0 +1,15 @@
+.series {
+    text-align: center;
+    color: white;
+}
+
+.series input {
+    width: 25%;
+    border: 0;
+    border-bottom: 1px solid white;
+    outline: 0;
+    font-size: 1rem;
+    color: white;
+    padding: 7px 0;
+    background: transparent;
+}
