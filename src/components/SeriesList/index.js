@@ -6,7 +6,7 @@ import './style.css';
 const SeriesListitem = ({series}) => (
     <li>
         <Link to={`/series/${series.show.id}`}>
-        {series.show.name}
+        {series.show.image.medium}
         </Link>
         
     </li>
